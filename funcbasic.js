@@ -1,3 +1,4 @@
+
 // Arquivo criado em projeto no www.stackblitz.com denominado funcbasic.js
 
 // Objetivo de uma função = definir um bloco de código reutilizável

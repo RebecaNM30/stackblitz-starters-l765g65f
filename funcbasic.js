@@ -35,3 +35,5 @@ const multiplicar = (x, y) => {
   return x * y; 
 }
 console.log(multiplicar(3, 5));
+
+//Formas

@@ -9,7 +9,7 @@ function soma(x, y) {
 }
 
 // chamar a função
-var print1 = soma(soma(4, 7), 3);
+var print1 = soma(soma(3, 8), 3);
 console.log(print1);
 
 var print2 = soma(10, soma(print1, 5));

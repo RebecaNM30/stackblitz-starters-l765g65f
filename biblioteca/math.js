@@ -1,17 +1,16 @@
-function soma(z=2, w=4) { 
-    return z + w; 
+function soma(a, b) { 
+    let soma = a, b;
+    return soma; 
 } 
 
-const subtrair = function(z=2, w=4) { 
-    return z - w; 
-}; 
+const subtrair = function(a, b) { 
+    return a - b; 
+  }
 
-function multiplicacao(a=2, b=4) { 
+  const multiplicar = function(a, b) { 
     return a * b; 
-} 
+  }
 
-const divisao = function(a=2, b=4) { 
+  const dividir = function(a, b) { 
     return a / b; 
-};
-
-module.exports = { soma, subtrair, multiplicacao, divisao };
+  }

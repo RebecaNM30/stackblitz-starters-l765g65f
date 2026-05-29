@@ -14,3 +14,4 @@ const subtrair = function(a, b) {
   const dividir = function(a, b) { 
     return a / b; 
   }
+  module.exports = {soma, subtrair, multiplicar, dividir}

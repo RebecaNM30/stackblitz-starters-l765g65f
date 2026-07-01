@@ -1,5 +1,5 @@
 console.log("==== Objeto Aluno =====");
-const Aluno = require('./pessoas/Aluno');
+const Aluno = require('./Aluno');
 const w = new Aluno();
 
 resposta = w.setNome('Pedro');

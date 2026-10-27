@@ -170,4 +170,11 @@ npm install
 
 Projeto desenvolvido por **Rebeca**, **Eduardo** e **Leonilson** para a **Cogmo Technology** no âmbito do programa **Bolsa Futuro Digital**, oferecido pelo **Instituto Hardware Brasil** nas dependências do **Instituto Federal de Brasília (IFB - Campus Taguatinga)**.
 
-![Instituto Hardware BR](LINK_DO_HBR_GERADO_AQUI) ![IFB Taguatinga](LINK_DO_IFB_GERADO_AQUI) ![Bolsa Futuro Digital](LINK_DO_BOLSA_GERADO_AQUI)
+![Instituto Hardware BR](<img width="295" height="248" alt="image" src="https://github.com/user-attachments/assets/10e70482-9264-4746-964f-87fd50a3eec6" />) 
+![IFB Taguatinga](<img width="308" height="225" alt="IFB" src="https://github.com/user-attachments/assets/fc7163eb-02da-4543-9092-3d0192aa408b" />) 
+![Bolsa Futuro Digital](<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/0bc480db-78b2-4d51-9eb1-cc4b3a3790f6" />)
+
+
+
+
+

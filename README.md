@@ -161,3 +161,17 @@ npm run build
 ```bash
 npm install
 ```
+
+---
+
+## ⚖️ Licença e Parcerias
+
+Projeto desenvolvido por **Rebeca**, **Eduardo** e **Leonilson** para a **Cogmo Technology** no âmbito do programa **Bolsa Futuro Digital**, oferecido pelo **Instituto Hardware Brasil** nas dependências do **Instituto Federal de Brasília (IFB - Campus Taguatinga)**.
+
+<br />
+
+<p align="center">
+  <img src="COLE_AQUI_O_LINK_DA_LOGO_HBR" width="120" alt="Instituto Hardware BR" style="margin-right: 20px;" />
+  <img src="COLE_AQUI_O_LINK_DA_LOGO_IFB" width="120" alt="IFB Taguatinga" style="margin-right: 20px;" />
+  <img src="COLE_AQUI_O_LINK_DA_LOGO_BOLSA" width="120" alt="Bolsa Futuro Digital" />
+</p>

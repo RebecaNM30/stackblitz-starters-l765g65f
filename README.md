@@ -147,3 +147,17 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas no s
 1. **Clonar o repositório:**
 ```bash
 git clone https://github.com/silver-ward/monitoramento-hidrologico.git
+
+cd monitoramento-hidrologico
+
+cp .env.example .env
+
+npm install
+
+npm run dev
+
+npm run build
+
+```bash
+npm install
+```

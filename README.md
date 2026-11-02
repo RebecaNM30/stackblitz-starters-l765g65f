@@ -6,7 +6,7 @@ Aplicação FrontEnd desenvolvida em **React** para o monitoramento de estaçõe
 
 ## 🚀 Deploy da Aplicação
 
-* **FrontEnd (Produção):** [Acesse o projeto na Vercel](https://hydrocogmo.vercel.app/) *(substitua pelo link real)*
+* **FrontEnd (Produção):** [Acesse o projeto na Vercel](https://hydrocogmo.vercel.app/) 
 
 ---
 

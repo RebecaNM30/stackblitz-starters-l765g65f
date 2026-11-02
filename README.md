@@ -44,6 +44,46 @@ Aplicação FrontEnd desenvolvida em ReactJS para o gerenciamento, visualizaçã
 * Deploy em Vercel / Render
 
 ---
+---
+### Diagrama de Classes
+O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto, servindo como base para o Backend e para o consumo no FrontEnd.
+
+<p align="center">
+  <img src="./img/diagrama-classes.png" alt="Diagrama de Classes">
+</p>
+
+---
+
+## 🗂️ Estrutura do Projeto FrontEnd
+
+A organização das pastas e arquivos do projeto segue a seguinte estrutura:
+
+```text
+monitoramento-hidrologico/
+├── img/
+│   ├── cogmo-logo.png
+│   ├── hbr-logo.png
+│   └── ifb-test.webp
+├── src/
+│   ├── assets/
+│   │   └── fonts/
+│   ├── components/
+│   │   ├── AppHeader.jsx
+│   │   ├── MeasurementCharts.jsx
+│   │   ├── MeasurementTable.jsx
+│   │   └── Overview.jsx
+│   │   └── StationControls.jsx
+│   ├── data/
+│   │   └── stations.js
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .env
+├── package.json
+└── README.md
+
+---
 
 ## 🎯 Desafio Atendido (Monitoramento e Análise)
 

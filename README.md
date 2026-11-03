@@ -67,6 +67,14 @@ Listagem em tabela das medições registradas, permitindo ordenação rápida, v
 </p>
 
 ---
+## 📊 Modelagem dos Dados
+
+### Diagrama de Classes
+O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto para estruturar as informações das estações e medições hidrológicas.
+
+ <img width="2085" height="1635" alt="graph" src="https://github.com/user-attachments/assets/839cd554-04b8-48c3-adc1-3e79ec80413e" />
+
+---
 
 ## 🗂️ Estrutura do Projeto (FrontEnd)
 

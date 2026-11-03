@@ -32,21 +32,39 @@ Aplicação FrontEnd desenvolvida em **React** para o monitoramento de estaçõe
 * **Ant Design (AntD)** / Componentes customizados
 * **Chart Libraries (D3 / Recharts)** para os gráficos de nível e chuva
 ---
-📷 Telas da Aplicação
-As telas abaixo ilustram as principais funcionalidades do sistema:
+## 📷 Telas da Aplicação
 
-Tela 1 - Visão Geral (Dashboard Main)
+As telas abaixo ilustram as principais funcionalidades do sistema de monitoramento hidrológico:
+
+### 1. Visão Geral (Dashboard Main)
 Painel principal exibindo o seletor da estação, metadados operacionais, seletor de janela de tempo, cards de último nível registrado, precipitação recente e estado de transmissão.
-<img width="1912" height="866" alt="01" src="https://github.com/user-attachments/assets/3e59cdf0-9a24-4100-9729-bc0f7d65dc31" />
 
-Tela 2 - Histórico de Medições (Gráficos Analíticos)
+<p align="center"> <img width="1912" height="866" alt="01" src="https://github.com/user-attachments/assets/fa174480-9791-46ec-a1be-92dd90271c4c" />
+
+</p>
+
+---
+
+### 2. Histórico de Medições (Gráficos Analíticos)
 Página focada na análise profunda com gráficos interativos de área (Nível do Rio em metros) e gráficos de barras para a precipitação recente.
-<img width="1677" height="866" alt="02" src="https://github.com/user-attachments/assets/6e726651-800c-40bd-94e8-9dddd24213c2" />
-<img width="1662" height="855" alt="02 1" src="https://github.com/user-attachments/assets/cf44d762-445e-4d73-b341-e7c8125bf970" />
 
-Tela 3 - Consulta Analítica de Medições
+<p align="center">
+ <img width="1677" height="866" alt="02" src="https://github.com/user-attachments/assets/7e08b9a7-15e8-4867-bc2b-0feb40270b86" />
+
+ ---
+
+<img width="1662" height="855" alt="02 1" src="https://github.com/user-attachments/assets/534f6f58-3334-466d-9362-66540c223796" />
+
+</p>
+
+---
+
+### 3. Consulta Analítica de Medições
 Listagem em tabela das medições registradas, permitindo ordenação rápida, visualização do estado e aplicação de filtros detalhados.
-<img width="1536" height="867" alt="03" src="https://github.com/user-attachments/assets/0ffcc9f4-8d0a-48f7-8f23-7c0dfbacc595" />
+
+<p align="center">   <img width="1536" height="867" alt="03" src="https://github.com/user-attachments/assets/f112ee94-e3cb-4611-baa2-8a918bad1f1a" />
+
+</p>
 
 ---
 

@@ -103,7 +103,44 @@ monitoramento-hidrologico/
 ├── .env
 ├── package.json
 └── README.md
+```
+---
 
+## 💻 Execução Local
+
+Para executar este projeto em sua máquina localmente, siga os passos abaixo:
+
+```bash
+# Clone este repositório
+git clone [https://github.com/RebecaNM30/monitoramento-hidrologico.git](https://github.com/RebecaNM30/monitoramento-hidrologico.git)
+
+# Entre na pasta do projeto
+cd monitoramento-hidrologico
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+```
+---
+
+## 👥 Autoria
+
+| Logo | Informações |
+| :---: | :--- |
+| <img width="100" height="100" alt="bfd-logo png" src="https://github.com/user-attachments/assets/4a0d47ed-bf1f-4f21-9b61-b5a3ddd9425a" />| **Projeto:** Bolsa Futuro Digital (BFD)<br>**Área:** Front-End / Monitoramento Hidrológico e Meteorológico |
+| <img width="100" height="100" alt="ifb-logo jpeg" src="https://github.com/user-attachments/assets/e2c09d46-2785-4d95-9f1c-f2973eb528d3" />| **Instituição:** Instituto Federal de Brasília (IFB) - Campus Taguatinga |
+<img width="100" height="100" alt="hbr-logo jpeg" src="https://github.com/user-attachments/assets/9b890101-7953-4ebd-90de-5a48f352712d" />  |**Realização:** Instituto Hardware BR<br>**Autores:** Rebeca Marinho, Eduardo Ribeiro e Leonilson Jedi |
+---
+
+# 📝 Considerações Finais
+
+Este projeto demonstra:
+* **Aplicação de conceitos avançados** de ReactJS e componentes visuais interativos.
+* **Integração e visualização** de séries temporais e dados meteorológicos/hidrológicos através de gráficos analíticos (Recharts).
+* **Organização de código** limpa, modular e componentizada seguindo padrões profissionais de mercado.
+* **Documentação estruturada** de arquitetura e modelagem de software para sistemas web.
 
 
 
